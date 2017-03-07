@@ -16,3 +16,5 @@ Then copy and paste this: python -m pip install https://github.com/rohithpr/py-w
 wait for it to install, then copy and paste this: python -m pip install google
 
 it should work, if not message my twitter @jackkraemer122
+
+Make sure you have the 'sitemaplinklist.txt' file downloaded so it has a place to save your sitemap links
