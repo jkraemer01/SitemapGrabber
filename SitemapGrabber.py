@@ -16,8 +16,8 @@ try:
         else:
             pass
         sitemapfile.write(url+"\n")
-except Exception, e:
-    print str(e)+"[-]Google is probably blocking you so wait and try later or something"
+except Exception:
+    print(str(e)+"[-]Google is probably blocking you so wait and try later or something")
 
 
     #yes this is literally like 10 lines of code 
